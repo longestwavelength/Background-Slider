@@ -32,7 +32,7 @@ body::before {
 
 .container {
     box-shadow: 0 3px 6px rgba(0, 0, 0, 0.15), 0 3px 6px rgba(0, 0, 0, 0.22);
-    height: 70vh;
+    height: 80vh;
     width: 70vw;
     position: relative;
     overflow: hidden;
